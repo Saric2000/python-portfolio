@@ -1,6 +1,6 @@
 ## How to run
 
-### RandomQoutes
+## RandomQoutes
 '''bash
 pip install flask
 cd random-quote-api
