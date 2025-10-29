@@ -10,7 +10,6 @@ This repository contains three beginner-friendly projects that demonstrate diffe
 | 1 | **Price Tracker Scraper** | A web scraper that collects product/book prices and saves them to a CSV file using `requests`, `BeautifulSoup`, and `pandas`. | [`price-tracker-scraper`](./price-tracker-scrapper) |
 | 2 | **Random Quote API** | A simple Flask API that returns a random quote from a predefined list, demonstrating basic backend development. | [`random-quote-api`](./random-quotes-api) |
 | 3 | **Fuel Prices Analysis** | Data analysis project using `pandas` and `matplotlib` to read, analyze, and visualize fuel price trends from a CSV file. | [`fuel-price-analysis`](./fuel-prices-analysis) |
-
 | 4 | **AI Sentiment Analyzer | Analyze text sentiment using machine learning techniques and Python libraries like `scikit-learn` and `pandas`. | [ai-sentiment-analyzer](./ai-sentiment-analyzer) |
 | 5 | **Covid Dashboard | Interactive dashboard displaying COVID-19 statistics using `dash` and `plotly`. | [covid-dashboard](./covid-dashboard) |
 | 6 | **Crypto Tracker | Track cryptocurrency prices in real-time and visualize trends with `matplotlib` and `requests`. | [crypto-tracker](./crypto-tracker) |
