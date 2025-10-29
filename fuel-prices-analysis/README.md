@@ -1,6 +1,6 @@
 ## How to run
 
-### Fuel Price Tracker
+## Fuel Price Tracker
 '''bash
 
 pip install pandas matplotlib
