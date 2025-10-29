@@ -4,20 +4,11 @@ from typing import Any
 from transformers import pipeline
 import matplotlib.pyplot as plt
 
-<<<<<<< HEAD
 # Using sentiment analyzer from Hugging Face
 analyzer = pipeline("sentiment-analysis")
 
+# Enter multiple sentences for analysis
 texts = [
-    "Toto je super!",
-    "Bolo to brutalne zle!",
-=======
-# 🔹 Kreiraj sentiment analizator (model iz HuggingFace)
-analyzer = pipeline("sentiment-analysis")
-
-# 🔹 Unesi više rečenica za analizu
-texts = [
->>>>>>> ffb441bee551ba79910ad5dc5d13f54f2041dde0
     "I love this product! It's amazing and works perfectly.",
     "This is the worst service I have ever used.",
     "It's okay, nothing special but not bad either.",
